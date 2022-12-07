@@ -1,7 +1,7 @@
 """
-pip install -i https://pypi.python.org/pypi fucker-xf
+pip install -i https://pypi.python.org/pypi xfpip
 """
-from fucker_xf import wp
+from xfpip import wp
 
 if __name__ == '__main__':
     wp.func()
